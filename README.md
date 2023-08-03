@@ -1,4 +1,4 @@
-## Olá, sou o Anderson Carlos 👋
+## Olá, sou Anderson Carlos 👋
 - 🔭 Atualmente trabalhando como suporte tecnico e freelancer como desenvolvedor PHP, Laravel, JavaScript, Node, Python, Django, MySQL e PostgresSQL<br>
 - 🎓 Formado em Ciência da Computação<br>
 - 🌱 Cursando pós-graduação em Engenharia de Software<br>
