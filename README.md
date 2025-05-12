@@ -1,5 +1,6 @@
 ## Olá, sou Anderson Carlos 👋
-- 🔭 Atualmente trabalhando como suporte tecnico e freelancer como desenvolvedor PHP, Laravel, JavaScript, Node, Python, Django, MySQL e PostgresSQL<br>
+- 🔭 Atualmente trabalhando como Desenvolvedor FullStack em tempo integral e freelancer nas horas vagas
+- 🔭 Principais Stacks: PHP, Laravel, JavaScript, React, Java, Spring, MySQL e PostgresSQL<br>
 - 🎓 Formado em Ciência da Computação<br>
 - 🎓 Pós graudo em Engenharia de Software<br>
 - 🌱 Cursando pós-graduação em Business intelligence, big data e analytics - ciência de dados<br>
